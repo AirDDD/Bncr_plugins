@@ -2,28 +2,6 @@
   "annotation0": "该文件由系统自动生成.",
   "annotation1": "当config.json中pluginsPublishingMode===\"git\"时且有public插件时生成",
   "annotation2": "该文件用于插件市场索引,当更新插件至git时,请将该文件同步更新至git",
-  "pFJvNStNxPgo6JiOZtIvaSqNenk=": {
-    "type": "github",
-    "name": "logFilter",
-    "author": "Air",
-    "team": "Air",
-    "version": "1.0.0",
-    "description": "屏蔽无用 API 请求日志",
-    "classification": [
-      "Air"
-    ],
-    "filename": "logFilter.ts",
-    "fileDir": "/plugins/Air/logFilter.ts",
-    "systemVersionRange": "",
-    "isAdapter": false,
-    "isCron": false,
-    "isAuthentication": false,
-    "isEncPlugin": false,
-    "isMod": false,
-    "isService": true,
-    "id": "pFJvNStNxPgo6JiOZtIvaSqNenk=",
-    "isChatPlugin": false
-  },
   "J0wq46tRZ4Mmv7Zhdy4TSsQjHcA=": {
     "type": "github",
     "name": "定向监听日期版",
@@ -133,5 +111,27 @@
     "isService": false,
     "id": "FRsFeoW1tLwIkqCwk2As2ifmhKQ=",
     "isChatPlugin": true
+  },
+  "5vhYe+fcwsHf7Dbaja1ajPXCn5k=": {
+    "type": "github",
+    "name": "logFilter",
+    "author": "Air",
+    "team": "Air",
+    "version": "1.0.0",
+    "description": "屏蔽无用 API 请求日志",
+    "classification": [
+      "Air"
+    ],
+    "filename": "logFilter.ts",
+    "fileDir": "/plugins/官方插件/logFilter.ts",
+    "systemVersionRange": "",
+    "isAdapter": false,
+    "isCron": false,
+    "isAuthentication": false,
+    "isEncPlugin": false,
+    "isMod": false,
+    "isService": true,
+    "id": "5vhYe+fcwsHf7Dbaja1ajPXCn5k=",
+    "isChatPlugin": false
   }
 }

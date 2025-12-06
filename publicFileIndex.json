@@ -2,6 +2,28 @@
   "annotation0": "该文件由系统自动生成.",
   "annotation1": "当config.json中pluginsPublishingMode===\"git\"时且有public插件时生成",
   "annotation2": "该文件用于插件市场索引,当更新插件至git时,请将该文件同步更新至git",
+  "pFJvNStNxPgo6JiOZtIvaSqNenk=": {
+    "type": "github",
+    "name": "logFilter",
+    "author": "Air",
+    "team": "Air",
+    "version": "1.0.0",
+    "description": "屏蔽无用 API 请求日志",
+    "classification": [
+      "Air"
+    ],
+    "filename": "logFilter.ts",
+    "fileDir": "/plugins/Air/logFilter.ts",
+    "systemVersionRange": "",
+    "isAdapter": false,
+    "isCron": false,
+    "isAuthentication": false,
+    "isEncPlugin": false,
+    "isMod": false,
+    "isService": true,
+    "id": "pFJvNStNxPgo6JiOZtIvaSqNenk=",
+    "isChatPlugin": false
+  },
   "J0wq46tRZ4Mmv7Zhdy4TSsQjHcA=": {
     "type": "github",
     "name": "定向监听日期版",
@@ -98,7 +120,7 @@
     "version": "1.0.0",
     "description": "发送“黑丝”后自动获取视频",
     "classification": [
-      "Air"
+      "视频"
     ],
     "filename": "黑丝.js",
     "fileDir": "/plugins/Air/黑丝.js",

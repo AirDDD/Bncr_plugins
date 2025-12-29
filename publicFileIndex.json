@@ -51,7 +51,7 @@
     "name": "美女提示词",
     "author": "Air",
     "team": "Air",
-    "version": "8.0.0",
+    "version": "1.0.0",
     "description": "发送“提示词”生成主题一致的详细提示词，包含6大主题风格",
     "classification": [
       "Air"

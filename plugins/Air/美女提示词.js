@@ -2,7 +2,7 @@
  * @author Air
  * @team Air
  * @name 美女提示词
- * @version 8.0.0
+ * @version 1.0.0
  * @description 发送“提示词”生成主题一致的详细提示词，包含6大主题风格
  * @rule ^提示词$
  * @priority 10

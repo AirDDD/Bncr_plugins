@@ -46,6 +46,28 @@
     "id": "Pzl+PBRwKpEgAPCU6c772vz7Y40=",
     "isChatPlugin": true
   },
+  "l6jaZeysugLJyUMg7qz5Aq0G9Bg=": {
+    "type": "github",
+    "name": "美女提示词",
+    "author": "Air",
+    "team": "Air",
+    "version": "8.0.0",
+    "description": "发送“提示词”生成主题一致的详细提示词，包含6大主题风格",
+    "classification": [
+      "Air"
+    ],
+    "filename": "美女提示词.js",
+    "fileDir": "/plugins/Air/美女提示词.js",
+    "systemVersionRange": "",
+    "isAdapter": false,
+    "isCron": false,
+    "isAuthentication": false,
+    "isEncPlugin": true,
+    "isMod": false,
+    "isService": false,
+    "id": "l6jaZeysugLJyUMg7qz5Aq0G9Bg=",
+    "isChatPlugin": true
+  },
   "7N2ng6drBVwGHo/J/3QSySfgCjc=": {
     "type": "github",
     "name": "记账本",

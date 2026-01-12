@@ -2,6 +2,28 @@
   "annotation0": "该文件由系统自动生成.",
   "annotation1": "当config.json中pluginsPublishingMode===\"git\"时且有public插件时生成",
   "annotation2": "该文件用于插件市场索引,当更新插件至git时,请将该文件同步更新至git",
+  "QX5RavlIH31jh9yV9vKMzahK+tk=": {
+    "type": "github",
+    "name": "HumanTG",
+    "author": "Aming",
+    "team": "Bncr团队",
+    "version": "1.0.7",
+    "description": "Telegarm人行适配器",
+    "classification": [
+      "官方适配器"
+    ],
+    "filename": "HumanTG.js",
+    "fileDir": "/Adapter/HumanTG.js",
+    "systemVersionRange": "",
+    "isAdapter": true,
+    "isCron": false,
+    "isMod": false,
+    "isService": false,
+    "isAuthentication": false,
+    "isEncPlugin": true,
+    "id": "QX5RavlIH31jh9yV9vKMzahK+tk=",
+    "isChatPlugin": false
+  },
   "J0wq46tRZ4Mmv7Zhdy4TSsQjHcA=": {
     "type": "github",
     "name": "定向监听日期版",
